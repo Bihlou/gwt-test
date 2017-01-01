@@ -1,0 +1,2 @@
+serviceClass: com.ffbe.events.client.ItemsService
+path: 697641B19E9A80F5F4084820299ED3B9.gwt.rpc

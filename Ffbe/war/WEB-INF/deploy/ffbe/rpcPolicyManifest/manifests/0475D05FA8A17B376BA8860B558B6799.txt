@@ -1,0 +1,2 @@
+serviceClass: com.ffbe.events.client.EventsService
+path: 8C486517D4AEB54344301ABEEB18EF1E.gwt.rpc
